@@ -1,11 +1,9 @@
-# imageSearch-ReactApp
-
-# Image Search react application
+# Image Search - react app
 
 ## запуск:
 
 1. npm i
-2. npm run serve
+2. npm start
 
 
 ## Лайв:
