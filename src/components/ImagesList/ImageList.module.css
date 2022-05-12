@@ -1,0 +1,23 @@
+.images_list {
+    position: absolute;
+    display: flex;
+    flex-wrap: wrap;
+    top: 0;
+    left: 0;
+    list-style: none;
+}
+
+.images {
+    width: 20vw;
+    height: 25vh;
+    transition: 0.3s;
+}
+
+.images:hover {
+    position: relative;
+    outline: solid 5px rgb(141, 104, 170);
+}
+
+.images_item {
+    font-size: 0;
+}
