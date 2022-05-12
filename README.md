@@ -1,1 +1,1 @@
-# imageSearch-ReactApp =)
+# imageSearch-ReactApp
